@@ -1,4 +1,6 @@
-seneca-ng-card
+seneca-card
 ==============
 
 Seneca Angular card plugin.
+
+
