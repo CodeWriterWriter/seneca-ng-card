@@ -10,6 +10,7 @@ var seneca  = require('seneca')
 var assert  = require('assert')
 
 var si = seneca()
+si.use( 'card' )
 si.use( '../ng-card' )
 
 
