@@ -3,7 +3,7 @@ seneca-ng-card - a [Seneca](http://senecajs.org) plugin
 
 ## Seneca Angular Plugin for [seneca-card](http://github.com/rjrodger/seneca-card)
 
-This plugin provides an Angular integration interface for the [HyperNg-Card](http://en.wikipedia.org/wiki/Hyperng-card)-esque data model exposed by [seneca-card](http://github.com/rjrodger/seneca-card).
+This plugin provides an Angular integration interface for the [HyperCard](http://en.wikipedia.org/wiki/Hyperng-card)-esque data model exposed by [seneca-card](http://github.com/rjrodger/seneca-card).
 
 [![Build Status](https://travis-ci.org/rjrodger/seneca-ng-card.png?branch=master)](https://travis-ci.org/rjrodger/seneca-ng-card)
 
