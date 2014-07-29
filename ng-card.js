@@ -9,7 +9,9 @@ var serve_static = require('serve-static')
 
 module.exports = function( options ) {
   var seneca = this
-  var plugin = 'card'
+  var plugin = 'ng-card'
+
+  seneca.depends(plugin,['card'])
 
 
   options = seneca.util.deepextend({
